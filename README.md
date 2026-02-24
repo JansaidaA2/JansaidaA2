@@ -5,7 +5,8 @@ Hi, I’m Jan Saida Shaik (@JansaidaA2)
  I have worked on projects like Predictive Loan Defaulter Analysis, Brain Tumor Classification, and Customer Segmentation
  I’m looking to collaborate on AI, Data Science, and Business Analysis projects
  How to reach me: skshaida10@gmail.com and also 
-    You can be connect here : https://www.linkedin.com/in/shaiksaidaA2
+    You can be connect here : https://www.linkedin.com/in/jansaidashaik98/
+    Here is my portflio website : https://jan-portfolio.onrender.com/
     Contact : 9849526819
 ⚡ Fun fact: I love exploring the intersection of AI and hardware!
 <!---
